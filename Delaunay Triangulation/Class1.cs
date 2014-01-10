@@ -5,6 +5,8 @@ using System.Text;
 
 namespace Delaunay_Triangulation
 {
+
+
     public class Class1
     {
     }
